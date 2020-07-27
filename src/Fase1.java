@@ -1,5 +1,5 @@
 
-public class PrimeraClase {
+public class Fase1 {
 	
 	public static void  main(String args[]) {
 	
@@ -11,8 +11,11 @@ public class PrimeraClase {
 		int mes= 7;
 		int any= 1988;
 		
-		System.out.print(cognom1 + " " + cognom2 + ", " + nom);
-		System.out.print("\n" + dia + "/" + mes + "/" + any);
+		System.out.println(cognom1 + " " + cognom2 + ", " + nom);
+		System.out.println(dia + "/" + mes + "/" + any);
+		
+		
+		
 	}
 	
 }
